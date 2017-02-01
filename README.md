@@ -21,3 +21,6 @@ The script is self-explanatory. You can test run diskshadow on a single Exchange
   - execution option #3 (custom) is removed
 * v1.0 (2013-04-29)
   - public release
+  
+## Contributing
+This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
